@@ -1,0 +1,23 @@
+# Pacgeage Control Installation
+
+新安装的sublime 可能没有 Pacgeage Control 组件
+可以参照 https://packagecontrol.io/installation 安装 Pacgeage Control 组件
+
+ctlr + `
+执行 网页上的 python代码即可
+
+
+# html-css-js prettify
+
+这是一个html 代码格式化组件
+
+1、快捷键：ctrl+shift+P
+
+2、输入install package，选择install package
+
+3、输入html-css-js prettify，选择html-css-js prettify
+
+4、重启sublime
+
+5、使用：快捷键ctrl+shift+h
+
